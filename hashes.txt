@@ -1,2 +1,2 @@
 bin/main.dll=2c7a3b7e8d1f4a9b6c8d3e0f2a5b8c7d1e4f6a9b2c5d8e3f0a1b4c7d2e5f8a9b
-Monaco/editor.js=e3f0a1b4c7d2e5f8a9b2c5d8e3f0a1b4c7d2e5f8a9b2c5d8e3f0a1b4c7
+Monaco/editor.lua=e3f0a1b4c7d2e5f8a9b2c5d8e3f0a1b4c7d2e5f8a9b2c5d8e3f0a1b4c7
